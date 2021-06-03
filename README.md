@@ -1,2 +1,0 @@
-# vitalityMD
-Wellness Center
